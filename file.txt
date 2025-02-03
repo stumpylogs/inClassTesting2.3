@@ -4,10 +4,10 @@ and it was changed in the origin
 
 this is a branch change!
 
-<<<<<<< HEAD
+
 I changed this again from origin :3
-=======
 
 
-I WANNA CHANGE DIS TOO 
->>>>>>> featureABC123
+
+
+
